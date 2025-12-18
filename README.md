@@ -58,5 +58,6 @@ a. Size-wise Distribution
 
 2.Cleaned and formatted charts with labels, titles, and bar annotations.
 
-Link project-[
+Link project-[Amazone Sales Analysis.ipynb]
+Linkdin Profile - [https://www.linkedin.com/in/sabir-shaikh-64163036a]
 
